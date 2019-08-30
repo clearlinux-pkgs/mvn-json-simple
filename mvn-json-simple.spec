@@ -4,7 +4,7 @@
 #
 Name     : mvn-json-simple
 Version  : tag.1.1.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/fangyidong/json-simple/archive/tag_release_1_1_1.tar.gz
 Source0  : https://github.com/fangyidong/json-simple/archive/tag_release_1_1_1.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
